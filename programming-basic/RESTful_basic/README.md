@@ -1,4 +1,4 @@
-출처-[https://nesoy.github.io/articles/2017-02/REST](https://nesoy.github.io/articles/2017-02/REST?target="_blank")
+출처-[https://nesoy.github.io/articles/2017-02/REST](https://nesoy.github.io/articles/2017-02/REST)
 
 ## **RESTful (Representational state transfer)**
 
@@ -11,6 +11,11 @@ Representational state transfer (REST)은 소프트웨어 아키텍처의 한 �
 REST는 웹의 기존 기술과 프로토콜을 기본적으로 이용하는 「아키텍쳐 스타일」이다.
 
 RESTful은 일반적으로 그러한 아키텍처를 구현하는 웹 서비스를 지칭하는 데 사용된다.
+
+<br/>
+
+***
+<br/>
 
 ### **특징**
 
@@ -37,6 +42,11 @@ RESTful은 일반적으로 그러한 아키텍처를 구현하는 웹 서비스�
     - 클라이언트 입장에서는 REST ApI 서버만 호출한다.
     - REST 서버는 다중 계층으로 구성될 수 있다. 예를 들어 보안, 로드 밸런싱, 암호화, 사용자 인증등등 추가하여 구조상의 유연성을 줄 수 있다.
 
+<br/>
+
+***
+<br/>
+
 ### **구성**
 
 - 자원 - URI
@@ -53,6 +63,11 @@ RESTful은 일반적으로 그러한 아키텍처를 구현하는 웹 서비스�
     ![](https://danielmiessler.com/images/url-uri-miessler-2019-white-e1576768407702.png.webp)
     ![](https://res.cloudinary.com/practicaldev/image/fetch/s--lrbx3qNQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j4bka41nypm4do1f3e5b.JPG)
 
+<br/>
+
+***
+<br/>
+
 ### **가이드**
 
 `URI는 자원을 표현해야 한다.`<br/>
@@ -65,7 +80,7 @@ RESTful은 일반적으로 그러한 아키텍처를 구현하는 웹 서비스�
     ```
     - URI는 정보의 자원을 표현해야 한다.
     - HTTP Method (GET, PUT, POST, DELETE등등)의 행위가 URI 표현으로 들어가서는 안된다.
-
+    <br/>
     ```
     DELETE /members/1
     ```
@@ -84,7 +99,7 @@ RESTful은 일반적으로 그러한 아키텍처를 구현하는 웹 서비스�
     - 하이픈(-)은 URI 가독성을 높이는데 사용하자
         - 경로(Path)에 띄어쓰기가 들어가는 경우 "%20"이 들어가 가독성이 매우 떨어진다.
         - 하이픈(-)을 사용하여 띄어쓰기를 대체하고 가독성을 높일 수 있다.
-
+    <br/>
     ```
     http://test.com/test.jpg -- X
     http://test.com/test -- O
@@ -101,6 +116,7 @@ RESTful은 일반적으로 그러한 아키텍처를 구현하는 웹 서비스�
         ![](https://mdn.mozillademos.org/files/13821/HTTP_Request_Headers2.png)
 
 3. 자원을 표현하는 Collection과 Document
+
     ```
     http://test.com/citys/seoul/gangnam
     ```
@@ -122,4 +138,4 @@ RESTful은 일반적으로 그러한 아키텍처를 구현하는 웹 서비스�
 ||500|서버에 문제가 있을 때|
 ||404|Not Found|
 
-[HTTP 응답코드 - MDN](https://developer.mozilla.org/ko/docs/Web/HTTP/Status?target="_blank")
+[HTTP 응답코드 - MDN](https://developer.mozilla.org/ko/docs/Web/HTTP/Status")
