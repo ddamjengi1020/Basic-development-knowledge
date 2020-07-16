@@ -9,3 +9,5 @@
 
 ## Programming basic
 - [OOP vs Functional programming](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/OOP_vs_Functional)
+- [RESTful API](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/RESTful_basic)
+- [Ajax theory](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/Ajax_theory)
