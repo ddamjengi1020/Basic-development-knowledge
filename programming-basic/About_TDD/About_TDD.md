@@ -21,11 +21,11 @@ TDD는 SEO와 마찬가지로 취준하면서 우대조건에서 많이 보이�
 <details markdown="1">
 <summary>목차</summary>
 
-1. TDD란 뭘까?[🔗](#1.-TDD란-뭘까?)
-2. TDD의 장단점[🔗](#2.-TDD의-장단점)
-3. TDD의 범위[🔗](#3.-TDD의-범위)
-4. Javascript에서의 TDD예시[🔗](#4.-Javascript에서의-TDD예시)
-5. TDD 더 공부하기[🔗](#TDD-더-공부하기)
+1. TDD란 뭘까?[🔗](###1.-TDD란-뭘까?)
+2. TDD의 장단점[🔗](###2.-TDD의-장단점)
+3. TDD의 범위[🔗](###3.-TDD의-범위)
+4. Javascript에서의 TDD예시[🔗](###4.-Javascript에서의-TDD예시)
+5. TDD 더 공부하기[🔗](###TDD-더-공부하기)
 
 </details>
 <br>
