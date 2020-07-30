@@ -19,4 +19,5 @@
 - [OOP vs Functional programming](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/OOP_vs_Functional)
 - [RESTful API](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/RESTful_basic)
 - [Ajax API theory](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/Ajax_API)
-- [Theroy and Pros-cons of TDD](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/About_TDD)
+- [SEO basic](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/SEO_basic)
+- [About TDD](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/About_TDD)
