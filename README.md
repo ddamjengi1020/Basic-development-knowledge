@@ -16,8 +16,8 @@
 <br/>
 
 ## Programming basic
-- [OOP vs Functional programming](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/OOP_vs_Functional)
-- [RESTful API](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/RESTful_basic)
-- [Ajax API theory](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/Ajax_API)
-- [SEO basic](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/SEO_basic)
-- [About TDD](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/About_TDD)
+- [OOP vs Functional programming](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/OOP_vs_Functional/OOP_vs_Functional.md)
+- [RESTful API](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/RESTful_basic/RESTful_basic.md)
+- [Ajax API theory](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/Ajax_API/Ajax_API.md)
+- [SEO basic](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/SEO_basic/SEO_basic.md)
+- [About TDD](https://github.com/ddamjengi1020/Basic-development-knowledge/tree/master/programming-basic/About_TDD/About_TDD.md)
