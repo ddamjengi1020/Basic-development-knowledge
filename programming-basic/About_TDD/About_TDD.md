@@ -25,6 +25,7 @@ TDD는 SEO와 마찬가지로 취준하면서 우대조건에서 많이 보이�
 2. [TDD의 장단점](#2.-TDD의-장단점)🔗
 3. [TDD의 범위](#3.-TDD의-범위)🔗
 4. [Javascript에서의 TDD예시](#4.-Javascript에서의-TDD예시)🔗
+5. [TDD 더 공부하기](#TDD-더-공부하기)🔗
 
 </details>
 <br>
@@ -92,7 +93,6 @@ TDD는 SEO와 마찬가지로 취준하면서 우대조건에서 많이 보이�
 2. 진입장벽
 
     익숙지 않은 개발 방식의 어려움에 어떻게 해야 할지 감도 안 오고 스트레스를 받는다
-
 
 <br>
 
@@ -314,4 +314,8 @@ function sumOf(numbers){
 exports.sum = sum;
 exports.sumOf = sumOf;
 ```
+<br>
 
+## **TDD 더 공부하기**
+- [TDD는 설계 방법론이 아니다-이규원님 포스트](https://gyuwon.github.io/blog/2019/03/03/tdd-is-not-a-design-methodology.html?fbclid=IwAR0mQn64MyvSHErsztAvIi1EKEXi9bZYn-OsCPsSC5U7J0GiUQBXC2tqi9o)
+- [[번역] TDD 변절자: TDD는 설계 기법이 아니다.- Rachel님 포스트](https://medium.com/@mjspring/%EB%B2%88%EC%97%AD-tdd-%EB%B3%80%EC%A0%88%EC%9E%90-tdd%EB%8A%94-%EC%84%A4%EA%B3%84-%EA%B8%B0%EB%B2%95%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-2519b05474d0)
